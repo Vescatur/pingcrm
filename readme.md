@@ -1,3 +1,8 @@
+The wiki is:
+https://github.com/Vescatur/pingcrm/wiki
+
+Below is the original read.me
+
 # Ping CRM
 
 A demo application to illustrate how Inertia.js works.
